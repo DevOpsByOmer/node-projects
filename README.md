@@ -1,3 +1,5 @@
+Setting Up SigNoz and Collecting Application Logs from Log file
+
 
 In this guide, we'll walk through the steps to configure SigNoz, a monitoring and observability tool, along with an OpenTelemetry (OTel) Collector to export logs from your application server to SigNoz, which may be running on a different host. This allows you to centralize your logs for analysis and monitoring.
 
